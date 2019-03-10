@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f71c284-cf75-4585-9c7a-0eb57776e130" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TubeGenerator.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TubeGenerator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="109" column="44" lean-forward="false" selection-start-line="109" selection-start-column="44" selection-end-line="109" selection-end-column="44" />
+              <folding>
+                <marker date="1504568166665" expanded="false" signature="6:71" ph="..." />
+                <marker date="1504568166665" expanded="true" signature="96:3641" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="219:342" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="375:1149" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="1199:1339" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="1249:1333" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="1410:1821" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="1849:2660" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="1943:2654" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="2039:2644" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="2233:2559" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="2296:2384" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="2455:2541" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="2729:3638" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="2870:3632" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="3686:6422" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="3971:3992" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="4051:4735" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="4816:5092" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="4906:5065" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="5160:6414" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="5249:5569" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="5615:5944" ph="{...}" />
+                <marker date="1504568166665" expanded="true" signature="6033:6387" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BezierCurve.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/BezierCurve.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="143" column="46" lean-forward="false" selection-start-line="143" selection-start-column="46" selection-end-line="143" selection-end-column="46" />
+              <folding>
+                <marker date="1504567229686" expanded="true" signature="0:148" ph="UsingStatements" />
+                <marker date="1504567229686" expanded="true" signature="31:136" ph="..." />
+                <marker date="1504567229686" expanded="true" signature="150:469" ph="/// &#9;- Class for describing and drawing Bezier Curves ... " />
+                <marker date="1504567229686" expanded="true" signature="546:17693" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="551:1223" ph="PublicVariables" />
+                <marker date="1504567229686" expanded="true" signature="578:785" ph="///  &#9;- the number of mid-points calculated for each pair of bezier points ... " />
+                <marker date="1504567229686" expanded="true" signature="818:1012" ph="/// Gets or sets a value indicating whether this &lt;see cref=&quot;BezierCurve&quot;/&gt; is dirty. ... " />
+                <marker date="1504567229686" expanded="true" signature="1057:1170" ph="/// &#9;- color this curve will be drawn with in the editor ... " />
+                <marker date="1504567229686" expanded="true" signature="1227:2808" ph="PublicProperties" />
+                <marker date="1504567229686" expanded="true" signature="1255:1584" ph="///&#9;&#9;- set in the editor ... " />
+                <marker date="1504567229686" expanded="true" signature="1642:1754" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="1676:1751" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="1758:1964" ph="///&#9;&#9;- set internally ... " />
+                <marker date="1504567229686" expanded="true" signature="2000:2038" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="2042:2233" ph="/// &#9;- number of points stored in 'points' variable ... " />
+                <marker date="1504567229686" expanded="true" signature="2256:2294" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="2298:2416" ph="/// &#9;- The approximate length of the curve ... " />
+                <marker date="1504567229686" expanded="true" signature="2461:2794" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="2470:2791" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="2487:2764" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="2556:2636" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="2812:3041" ph="PrivateVariables" />
+                <marker date="1504567229686" expanded="true" signature="2840:2958" ph="/// &#9;- Array of point objects that make up this curve ... " />
+                <marker date="1504567229686" expanded="true" signature="3045:3757" ph="UnityFunctions" />
+                <marker date="1504567229686" expanded="true" signature="3092:3708" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="3148:3335" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="3195:3252" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="3340:3693" ph="/* var lineSteps = 20; ... */" />
+                <marker date="1504567229686" expanded="true" signature="3724:3744" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="3761:7006" ph="PublicFunctions" />
+                <marker date="1504567229686" expanded="true" signature="3787:3952" ph="/// &#9;- Adds the given point to the end of the curve (&quot;points&quot; array) ... " />
+                <marker date="1504567229686" expanded="true" signature="3993:4134" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="4138:4330" ph="/// &#9;- Adds a point at position ... " />
+                <marker date="1504567229686" expanded="true" signature="4379:4655" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="4659:4820" ph="/// &#9;- Removes the given point from the curve (&quot;points&quot; array) ... " />
+                <marker date="1504567229686" expanded="true" signature="4864:5009" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="5013:5180" ph="/// &#9;- Gets a copy of the bezier point array used to define this curve ... " />
+                <marker date="1504567229686" expanded="true" signature="5220:5266" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="5270:5552" ph="/// &#9;- Gets the point at 't' percent along this curve ... " />
+                <marker date="1504567229686" expanded="true" signature="5588:6387" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="5902:6133" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="6022:6087" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="6160:6222" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="6282:6338" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="6391:6625" ph="/// &#9;- Get the index of the given point in this curve ... " />
+                <marker date="1504567229686" expanded="true" signature="6670:6827" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="6733:6804" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="6763:6800" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="6831:6946" ph="/// &#9;- Sets this curve to 'dirty' ... " />
+                <marker date="1504567229686" expanded="true" signature="6970:6992" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="7010:13445" ph="PublicStaticFunctions" />
+                <marker date="1504567229686" expanded="true" signature="7043:7388" ph="/// &#9;- Draws the curve in the Editor ... " />
+                <marker date="1504567229686" expanded="true" signature="7466:7763" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="7634:7757" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="7769:8340" ph="/// &#9;- Gets the point 't' percent along a curve ... " />
+                <marker date="1504567229686" expanded="true" signature="8416:8973" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="8559:8779" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="8789:8969" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="8980:9652" ph="/// &#9;- Gets the point 't' percent along a third-order curve ... " />
+                <marker date="1504567229686" expanded="true" signature="9754:10322" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="9769:10064" ph="/* t = Mathf.Clamp01(t); ... */" />
+                <marker date="1504567229686" expanded="true" signature="10326:10862" ph="/// &#9;- Gets the point 't' percent along a second-order curve ... " />
+                <marker date="1504567229686" expanded="true" signature="10956:11180" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="11184:11689" ph="/// &#9;- Gets point 't' percent along a linear &quot;curve&quot; (line) ... " />
+                <marker date="1504567229686" expanded="true" signature="11763:11812" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="11816:12184" ph="/// &#9;- Gets point 't' percent along n-order curve ... " />
+                <marker date="1504567229686" expanded="true" signature="12250:12584" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="12408:12562" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="12588:13010" ph="/// &#9;- Approximates the length ... " />
+                <marker date="1504567229686" expanded="true" signature="13102:13431" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="13261:13409" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="13449:13751" ph="UtilityFunctions" />
+                <marker date="1504567229686" expanded="true" signature="13529:13584" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="13622:13737" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="13687:13715" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="13821:14603" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="14034:14587" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="14217:14583" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="14264:14550" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="14476:14544" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="14701:14800" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="14903:15423" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="14918:15203" ph="/* t = Mathf.Clamp01(t); ... */" />
+                <marker date="1504567229686" expanded="true" signature="15464:17606" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="15476:17204" ph="/* if (t &lt;= 0) return points[0].position; ... */" />
+                <marker date="1504567229686" expanded="true" signature="17241:17292" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="17292:17388" ph="{...}" />
+                <marker date="1504567229686" expanded="true" signature="17650:17690" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>GetFirstDerivative</find>
+      <find>GetVe</find>
+      <find>ModifyByCurve</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BezierCurve.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TubeGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/BezierCurve.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TubeGenerator.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1932" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bezier (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bezier (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp-Editor" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bezier (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp-Editor" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bezier (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bezier (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scripts" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bezier (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
+      <method />
+    </configuration>
+    <configuration default="false" name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Unity Debug.Attach to Unity Editor" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f71c284-cf75-4585-9c7a-0eb57776e130" name="Default" comment="" />
+      <created>1504484277856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504484277856</updated>
+      <workItem from="1504484279100" duration="6677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6677000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25267094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../Catharsis2/Assets/BezierCurve.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Catharsis2/Assets/BezierSpline.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="163" column="147" lean-forward="false" selection-start-line="152" selection-start-column="8" selection-end-line="163" selection-end-column="147" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Catharsis2/Assets/Bezier.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="36" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TubeGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="109" column="44" lean-forward="false" selection-start-line="109" selection-start-column="44" selection-end-line="109" selection-end-column="44" />
+          <folding>
+            <marker date="1504568166665" expanded="false" signature="6:71" ph="..." />
+            <marker date="1504568166665" expanded="true" signature="96:3641" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="219:342" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="375:1149" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="1199:1339" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="1249:1333" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="1410:1821" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="1849:2660" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="1943:2654" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="2039:2644" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="2233:2559" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="2296:2384" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="2455:2541" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="2729:3638" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="2870:3632" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="3686:6422" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="3971:3992" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="4051:4735" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="4816:5092" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="4906:5065" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="5160:6414" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="5249:5569" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="5615:5944" ph="{...}" />
+            <marker date="1504568166665" expanded="true" signature="6033:6387" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BezierCurve.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="143" column="46" lean-forward="false" selection-start-line="143" selection-start-column="46" selection-end-line="143" selection-end-column="46" />
+          <folding>
+            <marker date="1504567229686" expanded="true" signature="0:148" ph="UsingStatements" />
+            <marker date="1504567229686" expanded="true" signature="31:136" ph="..." />
+            <marker date="1504567229686" expanded="true" signature="150:469" ph="/// &#9;- Class for describing and drawing Bezier Curves ... " />
+            <marker date="1504567229686" expanded="true" signature="546:17693" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="551:1223" ph="PublicVariables" />
+            <marker date="1504567229686" expanded="true" signature="578:785" ph="///  &#9;- the number of mid-points calculated for each pair of bezier points ... " />
+            <marker date="1504567229686" expanded="true" signature="818:1012" ph="/// Gets or sets a value indicating whether this &lt;see cref=&quot;BezierCurve&quot;/&gt; is dirty. ... " />
+            <marker date="1504567229686" expanded="true" signature="1057:1170" ph="/// &#9;- color this curve will be drawn with in the editor ... " />
+            <marker date="1504567229686" expanded="true" signature="1227:2808" ph="PublicProperties" />
+            <marker date="1504567229686" expanded="true" signature="1255:1584" ph="///&#9;&#9;- set in the editor ... " />
+            <marker date="1504567229686" expanded="true" signature="1642:1754" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="1676:1751" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="1758:1964" ph="///&#9;&#9;- set internally ... " />
+            <marker date="1504567229686" expanded="true" signature="2000:2038" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="2042:2233" ph="/// &#9;- number of points stored in 'points' variable ... " />
+            <marker date="1504567229686" expanded="true" signature="2256:2294" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="2298:2416" ph="/// &#9;- The approximate length of the curve ... " />
+            <marker date="1504567229686" expanded="true" signature="2461:2794" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="2470:2791" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="2487:2764" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="2556:2636" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="2812:3041" ph="PrivateVariables" />
+            <marker date="1504567229686" expanded="true" signature="2840:2958" ph="/// &#9;- Array of point objects that make up this curve ... " />
+            <marker date="1504567229686" expanded="true" signature="3045:3757" ph="UnityFunctions" />
+            <marker date="1504567229686" expanded="true" signature="3092:3708" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="3148:3335" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="3195:3252" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="3340:3693" ph="/* var lineSteps = 20; ... */" />
+            <marker date="1504567229686" expanded="true" signature="3724:3744" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="3761:7006" ph="PublicFunctions" />
+            <marker date="1504567229686" expanded="true" signature="3787:3952" ph="/// &#9;- Adds the given point to the end of the curve (&quot;points&quot; array) ... " />
+            <marker date="1504567229686" expanded="true" signature="3993:4134" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="4138:4330" ph="/// &#9;- Adds a point at position ... " />
+            <marker date="1504567229686" expanded="true" signature="4379:4655" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="4659:4820" ph="/// &#9;- Removes the given point from the curve (&quot;points&quot; array) ... " />
+            <marker date="1504567229686" expanded="true" signature="4864:5009" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="5013:5180" ph="/// &#9;- Gets a copy of the bezier point array used to define this curve ... " />
+            <marker date="1504567229686" expanded="true" signature="5220:5266" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="5270:5552" ph="/// &#9;- Gets the point at 't' percent along this curve ... " />
+            <marker date="1504567229686" expanded="true" signature="5588:6387" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="5902:6133" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="6022:6087" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="6160:6222" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="6282:6338" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="6391:6625" ph="/// &#9;- Get the index of the given point in this curve ... " />
+            <marker date="1504567229686" expanded="true" signature="6670:6827" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="6733:6804" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="6763:6800" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="6831:6946" ph="/// &#9;- Sets this curve to 'dirty' ... " />
+            <marker date="1504567229686" expanded="true" signature="6970:6992" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="7010:13445" ph="PublicStaticFunctions" />
+            <marker date="1504567229686" expanded="true" signature="7043:7388" ph="/// &#9;- Draws the curve in the Editor ... " />
+            <marker date="1504567229686" expanded="true" signature="7466:7763" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="7634:7757" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="7769:8340" ph="/// &#9;- Gets the point 't' percent along a curve ... " />
+            <marker date="1504567229686" expanded="true" signature="8416:8973" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="8559:8779" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="8789:8969" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="8980:9652" ph="/// &#9;- Gets the point 't' percent along a third-order curve ... " />
+            <marker date="1504567229686" expanded="true" signature="9754:10322" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="9769:10064" ph="/* t = Mathf.Clamp01(t); ... */" />
+            <marker date="1504567229686" expanded="true" signature="10326:10862" ph="/// &#9;- Gets the point 't' percent along a second-order curve ... " />
+            <marker date="1504567229686" expanded="true" signature="10956:11180" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="11184:11689" ph="/// &#9;- Gets point 't' percent along a linear &quot;curve&quot; (line) ... " />
+            <marker date="1504567229686" expanded="true" signature="11763:11812" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="11816:12184" ph="/// &#9;- Gets point 't' percent along n-order curve ... " />
+            <marker date="1504567229686" expanded="true" signature="12250:12584" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="12408:12562" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="12588:13010" ph="/// &#9;- Approximates the length ... " />
+            <marker date="1504567229686" expanded="true" signature="13102:13431" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="13261:13409" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="13449:13751" ph="UtilityFunctions" />
+            <marker date="1504567229686" expanded="true" signature="13529:13584" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="13622:13737" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="13687:13715" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="13821:14603" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="14034:14587" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="14217:14583" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="14264:14550" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="14476:14544" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="14701:14800" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="14903:15423" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="14918:15203" ph="/* t = Mathf.Clamp01(t); ... */" />
+            <marker date="1504567229686" expanded="true" signature="15464:17606" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="15476:17204" ph="/* if (t &lt;= 0) return points[0].position; ... */" />
+            <marker date="1504567229686" expanded="true" signature="17241:17292" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="17292:17388" ph="{...}" />
+            <marker date="1504567229686" expanded="true" signature="17650:17690" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
